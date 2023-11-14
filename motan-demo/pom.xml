@@ -119,7 +119,7 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
-            <version>4.1.3.Final</version> <!-- to be compatible with motan-protocol-grpc modules -->
+            <version>4.1.44.Final</version> <!-- to be compatible with motan-protocol-grpc modules -->
         </dependency>
 
         <!-- log4j -->
